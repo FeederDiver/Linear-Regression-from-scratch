@@ -9,4 +9,8 @@ The main file is Linear Regression.ipynb
 
 <img src="LinearRegression/title_plot.jpg" alt="drawing" width="500px"/>
 
+## Required Packages
+1. matplotlib
+2. numpy
+
 
